@@ -14,4 +14,5 @@ public class Depart extends Employee {
 		// TODO Auto-generated constructor stub
 		this.department = dept;
 	}
+	
 }
