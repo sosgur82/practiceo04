@@ -15,4 +15,7 @@ public class Depart extends Employee {
 		this.department = dept;
 	}
 	
+	public void getInformation() {
+		System.out.println( "이름: " + getName() + " 연봉: " + getSalary() + " 부서 : " + this.department );
+	}
 }
